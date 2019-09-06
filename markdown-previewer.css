@@ -1,0 +1,11 @@
+#wrapper {
+  background-color: rgb(0, 0, 200, 50%);
+  font-family: Arial;
+  padding: 5px 5px 5px 5px
+}
+
+#editor {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
